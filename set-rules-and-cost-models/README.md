@@ -5,5 +5,6 @@ Example "subgraphsList.txt":
 QmTN6gMCBCYTgbis33eSvr6sLsQoQ3R6a2KzR7CqmMABQP
 QmRuorV4Ck1sVdpfpAAwfYXnf3cfSkbDwZvvzWud9SH8Dg
 ..
+
 Example "costmodel.agora":
 default => 5000;
